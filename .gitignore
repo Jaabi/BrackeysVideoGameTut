@@ -1,0 +1,7 @@
+*.log
+*~
+Library/metadata
+Library/ShaderCache
+.vs/*
+Temp/*
+obj/*

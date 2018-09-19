@@ -1,4 +1,5 @@
 *.log
+*.meta
 *~
 Library/metadata
 Library/ShaderCache

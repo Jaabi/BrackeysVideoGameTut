@@ -64,7 +64,8 @@
     <Compile Include="Assets\Scenes\FollowPlayer.cs" />
     <Compile Include="Assets\Scenes\PlayerCollision.cs" />
     <Compile Include="Assets\Scenes\PlayerMovement.cs" />
-    <Compile Include="Assets\Score.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/abdie/Documents/Unity/HowToMakeAVideoGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

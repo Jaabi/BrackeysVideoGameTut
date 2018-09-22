@@ -61,9 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LevelComplete.cs" />
     <Compile Include="Assets\Scenes\FollowPlayer.cs" />
     <Compile Include="Assets\Scenes\PlayerCollision.cs" />
     <Compile Include="Assets\Scenes\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\EndTrigger.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Reference Include="UnityEditor.StandardEvents">

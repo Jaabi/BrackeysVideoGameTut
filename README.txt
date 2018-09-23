@@ -17,7 +17,7 @@ In essence, this is a practice video game. I just wanna complete a video game
 with the Unity game engine. If I like it, I'll continue. Simple as that.
 
 
-Extra
------
+After-thought
+-------------
 
-...
+Unity is alright. Might make a few games here for the fun of it. c:
